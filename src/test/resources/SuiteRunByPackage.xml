@@ -5,6 +5,7 @@
                 <packages>
                     <package name="com.junvu.package_demo.package1"/>
                     <package name="com.junvu.package_demo.package2">
+
                         <exclude name="TestPackage2_A"></exclude>
                     </package>
                 </packages>
